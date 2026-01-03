@@ -53,19 +53,23 @@ FullStackCrud_Operation/
 3. Run the Spring Boot application
 4. Backend will start on a default port (e.g. `http://localhost:8080`)
 
+---
 ### Frontend Setup
-```
+
 1. Open the `frontend` folder
 2. Install dependencies (if using a framework):
-   ```bash
+   
+   ```
    npm install
+   ```
 
 
 Start the frontend:
-
-npm start
-
 ```
+npm run dev
+```
+---
+
 Open browser and access the frontend URL
 
 🔗 API Operations (Example)
@@ -78,6 +82,8 @@ PUT – Update existing record
 
 DELETE – Remove record
 
+---
+
 🎯 Purpose of the Project
 
 Understand full stack development
@@ -89,6 +95,7 @@ Practice frontend–backend communication
 Improve REST API knowledge
 
 
+---
 
 📄 License
 
@@ -104,4 +111,5 @@ If you want, I can also:
 - Add **API endpoint table**
 
 Just tell me 👍
+---
 
