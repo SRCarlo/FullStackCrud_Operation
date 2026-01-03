@@ -33,8 +33,8 @@ It is mainly intended for **learning and practice purposes**.
 ---
 
 ## 📂 Project Structure
----
 
+```
 FullStackCrud_Operation/
 │
 ├── frontend/ # Frontend source code
@@ -43,8 +43,7 @@ FullStackCrud_Operation/
 │
 └── README.md
 
-
----
+```
 
 ## 🚀 How to Run the Project
 
@@ -55,6 +54,7 @@ FullStackCrud_Operation/
 4. Backend will start on a default port (e.g. `http://localhost:8080`)
 
 ### Frontend Setup
+```
 1. Open the `frontend` folder
 2. Install dependencies (if using a framework):
    ```bash
@@ -65,7 +65,7 @@ Start the frontend:
 
 npm start
 
-
+```
 Open browser and access the frontend URL
 
 🔗 API Operations (Example)
@@ -88,11 +88,7 @@ Practice frontend–backend communication
 
 Improve REST API knowledge
 
-👤 Author
 
-SRCarlo
-
-GitHub: https://github.com/SRCarlo
 
 📄 License
 
